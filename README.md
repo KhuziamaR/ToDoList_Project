@@ -1,4 +1,6 @@
 # ToDoList_Project
+VIEW HERE *https://khuziamar.github.io/ToDoList_Project/*
+
 This is a Web Application I built using HTML5, CSS3, and JavaScript/jQuery
 
 The Goal of this project was to make an interactive site that functions as a todo list!
